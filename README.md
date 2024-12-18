@@ -1,0 +1,2 @@
+# Face-Recognition-Technology-in-Police-Department-in-Police-Department
+face recognition technology to assist police departments in enhancing public safety and streamlining investigative processes. By integrating AI-driven facial recognition systems, law enforcement agencies can identify individuals efficiently, improving crime prevention, suspect tracking, and case resolution, and sends an alert notification to the police enforcement team as the suspect found via API called Twilio.
